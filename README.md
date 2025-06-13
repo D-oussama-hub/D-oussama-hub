@@ -1,7 +1,7 @@
 <h1 align="center"><mark><u>Hi 👋, I'm D.Oussama</u></mark></h1>
 
 <p>
-  I'm Daboub Osama, a software engineering student at the University of Science and Technology in the Netherlands (USTHB). I'm passionate about continuous development and learning the fundamentals of software engineering.<br>
+  I'm Daboub Osama, a software engineering student in Houari-Boumediene University of Science and Technology (USTHB). I'm passionate about continuous development and learning the fundamentals of software engineering.<br>
 I'm currently learning JavaScript frameworks and striving to master the technologies that shape modern web development. My involvement in the GitHub community highlights my interest in sharing and collaborating in the field of software engineering.
 </p>
 
