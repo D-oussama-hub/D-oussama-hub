@@ -10,8 +10,6 @@ I'm currently learning JavaScript frameworks and striving to master the technolo
 
 - current project **no project**
 
-- 🌱 I’m currently learning **javascrip**
-
 - 💬 Ask me about **How can i help you**
 
 - 📫 How to reach me **oussamadeboub3030@gmail.com**
